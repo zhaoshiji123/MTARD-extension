@@ -111,7 +111,7 @@ for epoch in range(1,epochs+1):
         # with torch.no_grad():
         #     #teacher_logits = teacher(train_batch_data)
         #     teacher_nat_logits = teacher_nat(train_batch_data)
-        student_adv_logits,teacher_adv_logits = rslad_inner_loss_ce_2(student,teacher,train_batch_data,train_batch_labels,optimizer,step_size=2/255.0,epsilon=epsilon,perturb_steps=10)
+        student_adv_logits,teacher_adv_logits = mtard_inner_loss_ce(student,teacher,train_batch_data,train_batch_labels,optimizer,step_size=2/255.0,epsilon=epsilon,perturb_steps=10)
 
         student.train()
         student_nat_logits = student(train_batch_data)
