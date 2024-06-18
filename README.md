@@ -24,8 +24,8 @@ python mtard_resnet18_cifar10.py
 ### Citation
 
 ```bash
-@inproceedings{Zhao2022Enhanced,
-title={Enhanced Accuracy and Robustness via Multi-Teacher Adversarial Distillation},
+@inproceedings{Zhao2024Mitigating,
+title={Mitigating Accuracy-Robustness Trade-off via Balanced Multi-Teacher Adversarial Distillation},
 author={Shiji Zhao and Xizhe Wang and Xingxing Wei},
 booktitle={IEEE Transactions on Pattern Analysis and Machine Intelligence},
 year={2024},
