@@ -1,6 +1,6 @@
 # MTARD extension: Mitigating Accuracy-Robustness Trade-off via Balanced Multi-Teacher Adversarial Distillation
 
-##Accepted by TPAMI (IEEE Transactions on Pattern Analysis and Machine Intelligence).
+## Accepted by TPAMI (IEEE Transactions on Pattern Analysis and Machine Intelligence).
 
 Other codes in this section can refer to the code link in the conference version ([here](https://github.com/zhaoshiji123/MTARD).)
 
