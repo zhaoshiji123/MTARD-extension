@@ -4,6 +4,8 @@
 
 Other codes in this section can refer to the code link in the conference version ([here](https://github.com/zhaoshiji123/MTARD).)
 
+The checkpoint of B-MTARD can be found [here](https://drive.google.com/drive/folders/1SPtUwtjKjef-bsSbzlJ8TcKubIqKqYLX?usp=drive_link).
+
 ### the running environment
 
 ```bash
